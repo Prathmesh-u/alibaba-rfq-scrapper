@@ -23,11 +23,11 @@ We created a fully automated web scraper using **Python + Selenium** that:
 
 ## Features
 
-Scrapes product RFQ titles and descriptions ✅
-Extracts quantity, country, quotes left, buyer name ✅
-Handles pagination until last available page ✅
-Saves data into `alibaba_rfq_scraped.csv` ✅
-Uses `Selenium` with ChromeDriver automation ✅
+- Scrapes product RFQ titles and descriptions ✅
+- Extracts quantity, country, quotes left, buyer name ✅
+- Handles pagination until last available page ✅
+- Saves data into `alibaba_rfq_scraped.csv` ✅
+- Uses `Selenium` with ChromeDriver automation ✅
 
 ---
 
