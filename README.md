@@ -49,8 +49,8 @@ We created a fully automated web scraper using **Python + Selenium** that:
 - Data enrichment for B2B tools
 
 
-**This project is for educational and research purposes only. Always respect website terms of service before scraping.
-Made with curiosity and code by Prathmesh Udanshiv**
+**This project is for educational and research purposes only. Always respect website terms of service before scraping.**
+**- Made with curiosity and code by Prathmesh Udanshiv**
 
 ---
 
