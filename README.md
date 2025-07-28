@@ -1,6 +1,6 @@
 ## Alibaba RFQ Scraper 
 
-This project is a Python-based web scraper that automatically extracts RFQ (Request for Quotation) listings from [Alibaba's RFQ sourcing portal](https://sourcing.alibaba.com/rfq/rfq_search_list.htm?country=AE&recently=Y). It collects details such as product title, description, quantity, buyer info, country, posted time, and quote links — saving all of it into a clean CSV file for further analysis or sourcing intelligence.
+This project is a Python-based web scraper that automatically extracts RFQ (Request for Quotation) listings from [Alibaba's RFQ sourcing portal](https://sourcing.alibaba.com/rfq/rfq_search_list.htm?country=AE&recently=Y). It collects details such as product title, description, quantity, buyer info, country, posted time, and quote links, saving all of it into a clean CSV file for further analysis or sourcing intelligence.
 
 ---
 
